@@ -2,9 +2,9 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import HeaderComponent from '../Components/Header'
-import ProjectsHeader from '../Components/ProjectHeader'
 import TwoContainers from '../Components/TwoContainers'
 import Footer from '../Components/Footer'
+import SingleContainer from '../Components/SingleContainer'
 
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
     <div>
     <HeaderComponent />
     <TwoContainers />
-    <ProjectsHeader />
+    <SingleContainer />
     <TwoContainers />
     <TwoContainers />
     <TwoContainers />

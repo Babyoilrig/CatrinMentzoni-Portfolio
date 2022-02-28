@@ -9,9 +9,8 @@ export default function Navbar() {
     <div className={css.navSection}>
       <img src="/images/mary-quant-flower-removebg-preview.png" width="60px"/>
       <div className={css.navLinks}>
-        <Link href="/about"><span>About</span></Link>
-        <Link href="#projects-section"><span>Projects</span></Link>
-        {/* <Link href="#contact-section"><span>Contact</span></Link> */}
+      <Link href="/about"><span>About</span></Link>
+    <Link href="#projects-section"><span>Projects</span></Link>
       </div>
       </div>
     </nav>
