@@ -16,12 +16,13 @@ export default function Home() {
     <NavbarPage1 /> 
     <IntroSectionPage1 
     introSentence={"Hello, my name is Catrin Mentzoni"}
-        introPara="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
-                      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat 
-                      nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
-                      deserunt mollit anim id est laborum."
+        introPara="I am an enthusiastic and friendly individual with excellent
+communication and listening skills, who thrives when
+working as part of a team. I love learning new things, and I
+also love a challenge! I previously worked as a primary
+school teacher for ten years, but learned to code as part of
+School of Code's Bootcamp 10 cohort - and I love it!
+"
         mainTitle="Fullstack Software Engineer"
         introButton1="About me"
         introButton2="Projects"/>

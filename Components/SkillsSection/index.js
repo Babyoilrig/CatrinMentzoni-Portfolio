@@ -12,7 +12,7 @@ const SkillsSection = () => {
     );
 }
 return (
-<Grid.Container gap={2} justify="center">
+<Grid.Container className={css.skillsIcons} gap={2} justify="center">
   <Grid xs={6}>
       <div className={css.jsIcon}>
         <img
@@ -32,6 +32,12 @@ return (
           src="/images/nodejs-removebg-preview.png"
         ></img>
       </div>
+      <div className={css.RNIcon}>
+        <img
+          className={css.RNImage}
+          src="/images/React-native.png"
+        ></img>
+      </div>
       <div className={css.htmlIcon}>
         <img
           className={css.htmlImage}
@@ -49,7 +55,7 @@ return (
         ></img>
       </div>
       <div className={css.nextIcon}>
-        <img className={css.nextImage} src="/images/nextjs.png"
+        <img className={css.nextImage} src="/images/Next.png"
 	></img>
       </div>
       <div className={css.expressIcon}>

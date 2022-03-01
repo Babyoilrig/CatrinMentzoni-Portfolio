@@ -4,57 +4,63 @@
   justify-content: center;
     background-color: white;
     margin: 10rem;
-    margin-top: 55rem;
+    margin-top: 70rem;
     border-radius: 3rem;
     border-style: groove;
     padding: 3rem;
   }
     
     .jsIcon{
-     height: 6rem;
-     width: 6rem;
+     height: 16rem;
+     width: 16rem;
      margin: 2rem;
     }
     
     .reactIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     }
     
     .nodeIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     } 
+
+    .RNIcon {
+      height: 20rem;
+     width: 20rem;
+     margin: 2rem;
+    }
   
     .htmlIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     } 
   
     .cssIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     } 
   
     .postgresIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     } 
   
     .nextIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     } 
   
     .expressIcon {
-      height: 6rem;
-     width: 6rem;
+      height: 16rem;
+     width: 16rem;
      margin: 2rem;
     } 
     
@@ -68,6 +74,12 @@
       height: 100%; 
       width: 100%; 
       object-fit: contain;
+    }
+
+    .RNImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain
     }
     
     .nodeImage {

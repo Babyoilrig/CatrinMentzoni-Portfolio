@@ -19,7 +19,7 @@ const IntroSectionPage1 = ({mainTitle, introSentence, introPara, introButton1, i
       <h2 className={css.mainTitle}>{mainTitle}</h2>
       <div className={css.content}>
         <h1 className={css.blackMainTitle}>{introSentence}</h1>
-        <p className={css.introPara}>{introPara}</p>
+        <div className={css.introPara}><p className={css.introParaText}>{introPara}</p></div>
 
         <div className={css.buttonContainer}>
           <Link href="/about" passHref>

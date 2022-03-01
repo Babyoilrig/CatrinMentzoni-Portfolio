@@ -9,7 +9,7 @@
     width: 992px;
     height: 1892px;
     left: calc(50% - 992px / 2 - 2px);
-    top: 773px;
+    top: 1150px;
   }
   
   .projectsTitle {
@@ -22,7 +22,7 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 60px;
     line-height: 72px;
   
     text-align: center;
