@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 import Footer from '../Components/Footer'
 import NavbarPage1 from '../Components/NavbarPage1'
 import ProjectSection1 from '../Components/ProjectSection1'
-import ProjectHeader from '../Components/ProjectHeader'
+import ProjectHeader from '../Components/HeaderProject'
 import IntroSectionPage1 from '../Components/IntroSectionPage1'
 
 

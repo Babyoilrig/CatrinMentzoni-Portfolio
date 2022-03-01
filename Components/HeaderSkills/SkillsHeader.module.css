@@ -1,0 +1,58 @@
+.projectsContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+  
+    position: absolute;
+    width: 992px;
+    height: 1892px;
+    left: calc(50% - 992px / 2 - 2px);
+    top: 773px;
+  }
+  
+  .projectsTitle {
+    position: absolute;
+    width: 181px;
+    height: 72px;
+    left: 410px;
+    top: 0px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 72px;
+  
+    text-align: center;
+    color: #25282b;
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 4px 0px;
+  }
+  
+  .projectUnderline {
+    position: absolute;
+    width: 130px;
+    height: 5px;
+    left: 430px;
+    top: 70px;
+  
+    /* brand / yellow */
+  
+    background: #fdc435;
+    border-radius: 2px;
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 4px 0px;
+  }
+  
+  
