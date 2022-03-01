@@ -35,7 +35,7 @@ const IntroSectionPage1 = ({mainTitle, introSentence, introPara, introButton1, i
       <Grid xs={6}>
       <div className={css.catImageContainer}>
       <div>
-        <img src="/images/Cat1.png" />
+        <img className={css.catImage} src="/images/Cat1.png" />
         </div>
       </div>
       </Grid>
