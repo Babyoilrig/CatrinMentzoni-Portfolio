@@ -13,7 +13,7 @@ const ProjectSection3 = ({projectTitle, projectDescription}) => {
       );
   }
   return (
-  <Grid.Container gap={2} justify="center">
+  <Grid.Container className={css.projectGrid3} gap={2} justify="center">
     <Grid xs={6}><div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>

@@ -1,3 +1,8 @@
+.projectGrid2 {
+    position: absolute;
+    top: 1300px;
+}
+
 .projectTextBox{
     display: flex;
     flex-direction: column;
