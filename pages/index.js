@@ -23,7 +23,7 @@ export default function Home() {
         mainTitle="Fullstack Software Engineer"
         introButton1="About me"
         introButton2="Projects"/>
-    <ProjectHeader />
+    <ProjectHeader title="Projects"/>
     <ProjectSection1 />
     {/* ProjectSection2
     ProjectSection3 */}
