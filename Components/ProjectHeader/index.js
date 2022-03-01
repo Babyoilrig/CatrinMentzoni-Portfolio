@@ -1,6 +1,6 @@
 import { Container, Row, Card, Text } from '@nextui-org/react';
 
-const SingleContainer = () => {
+const ProjectHeader = () => {
       return (
 <Container fluid>
   <Card color="white">
@@ -13,4 +13,4 @@ const SingleContainer = () => {
       )
     }
 
-    export default SingleContainer;
+    export default ProjectHeader;

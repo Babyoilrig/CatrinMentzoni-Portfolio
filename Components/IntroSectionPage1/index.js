@@ -1,8 +1,8 @@
 import { Grid, Text, Card } from '@nextui-org/react';
-const TwoContainers = () => {
+const IntroSectionPage1 = () => {
     const MockItem = ({text}) => {
       return (
-        <Card color="white" css={{ h: '$24' }}>
+        <Card color="primary" css={{ h: '$24' }}>
           <Text h6 size={15} color="white" css={{ mt: 0 }}>
             {text}
           </Text>
@@ -16,4 +16,11 @@ const TwoContainers = () => {
   </Grid.Container>
   ) }
 
-  export default TwoContainers;
+  export default IntroSectionPage1;
+
+
+
+
+
+
+

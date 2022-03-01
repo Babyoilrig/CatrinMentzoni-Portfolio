@@ -2,7 +2,7 @@ import css from "./Header.module.css";
 import Link from "next/link";
 
 
-export default function Navbar() {
+export default function NavbarPage1() {
   return (
     
     <nav>

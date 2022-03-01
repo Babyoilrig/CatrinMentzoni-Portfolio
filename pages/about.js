@@ -1,6 +1,4 @@
-import Header from "../Components/Header"
-import TwoContainers from "../Components/TwoContainers"
-import SingleContainer from "../Components/SingleContainer";
+import ProjectSection1 from "../Components/ProjectSection1";
 import Footer from "../Components/Footer"
 
 
@@ -8,10 +6,11 @@ import Footer from "../Components/Footer"
 export default function About() {
     return (
       <div>
-          <Header />
-          <TwoContainers />
-          <SingleContainer />
-          <SingleContainer />
+      <ProjectSection1 />
+          {/* <HeaderPage2 /> */}
+          {/* <AboutMeSection /> */}
+          {/* <SkillsHeader /> */}
+          {/* <SkillsSection /> */}
           <Footer />
 
       </div>
