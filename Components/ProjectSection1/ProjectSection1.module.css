@@ -1,0 +1,56 @@
+.projectTextBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.projectTitle {
+    display: flex;
+    flex-direction: column;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 150%;
+    color: #25282B;
+    
+}
+
+.projectDescription {
+    display: flex;
+    flex-direction: column;
+    
+    
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+
+    color: #828282;
+
+}
+
+.projectButton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px 24px;
+    
+    width: 150px;
+    height: 43px;
+    left: 20px;
+    top: 189px;
+    
+    /* font / high-emphasis */
+    
+    border: 1px solid #25282B;
+    box-sizing: border-box;
+    border-radius: 24px;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 24px 0px;
+}

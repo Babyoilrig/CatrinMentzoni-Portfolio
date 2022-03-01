@@ -1,0 +1,107 @@
+.skillsIcons {
+    display: flex;
+  flex-direction: row;
+  justify-content: center;
+    background-color: white;
+    margin: 10rem;
+    margin-top: 55rem;
+    border-radius: 3rem;
+    border-style: groove;
+    padding: 3rem;
+  }
+    
+    .jsIcon{
+     height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    }
+    
+    .reactIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    }
+    
+    .nodeIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    } 
+  
+    .htmlIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    } 
+  
+    .cssIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    } 
+  
+    .postgresIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    } 
+  
+    .nextIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    } 
+  
+    .expressIcon {
+      height: 6rem;
+     width: 6rem;
+     margin: 2rem;
+    } 
+    
+    .jsImage{
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+    
+    .reactImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+    
+    .nodeImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+  
+    .htmlImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+  
+    .cssImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+  
+    .postgresImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+  
+    .nextImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }
+  
+    .expressImage {
+      height: 100%; 
+      width: 100%; 
+      object-fit: contain;
+    }

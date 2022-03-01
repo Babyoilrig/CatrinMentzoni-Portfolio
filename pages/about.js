@@ -3,6 +3,7 @@ import Footer from "../Components/Footer"
 import SkillsHeader from "../Components/HeaderSkills";
 import IntroSectionPage2 from "../Components/IntroSectionPage2";
 import NavbarPage2 from "../Components/NavbarPage2";
+import SkillsSection from "../Components/SkillsSection";
 
 
 
@@ -23,7 +24,7 @@ export default function About() {
         introButton2="Home"/>
           {/* <AboutMeSection /> */}
           <SkillsHeader title="Skills"/>
-          {/* <SkillsSection /> */}
+          <SkillsSection />
           <Footer />
 
       </div>

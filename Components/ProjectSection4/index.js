@@ -2,7 +2,7 @@ import { Grid, Text, Card } from '@nextui-org/react';
 const ProjectSection4 = () => {
     const MockItem = ({text}) => {
       return (
-        <Card color="primary" css={{ h: '$24' }}>
+        <Card color="white" css={{ h: '$24' }}>
           <Text h6 size={15} color="white" css={{ mt: 0 }}>
             {text}
           </Text>
