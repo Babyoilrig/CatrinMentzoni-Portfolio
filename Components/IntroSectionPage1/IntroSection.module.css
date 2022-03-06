@@ -7,7 +7,7 @@
     position: absolute;
     width: 700px;
     height: 408px;
-    left: 90px;
+    left: 10px;
     top: 84px;
   }
   
@@ -17,7 +17,7 @@
     left: 0%;
     right: 0%;
     top: calc(50% - 27px / 2 - 190.5px);
-  
+    
     font-family: Nunito;
     font-style: normal;
     font-weight: bold;
@@ -31,11 +31,11 @@
   
     /* Inside auto layout */
   
-    flex: none;
+    /* flex: none;
     order: 0;
     align-self: stretch;
-    flex-grow: 0;
-    margin: 12px 0px;
+    flex-grow: 0; */
+    /* margin: 12px 0px; */
   }
   
   .blackMainTitle {
@@ -126,14 +126,14 @@
     
   }
 
-  /* .catImageContainer {
+  .catImageContainer {
     width: 50rem;
     height: 50rem;
     margin: 2rem;
-  } */
+  } 
 
-  /* .catImage {
+  .catImage {
     height: 100%; 
       width: 100%; 
       object-fit: contain;
-  } */
+  }
