@@ -23,7 +23,9 @@ const ProjectSection1 = ({projectTitle, projectDescription}) => {
     </Link>
     </div>
   </Grid>
-      <Grid md={5} className={css.proj1Right}><MockItem text="2 of 2" /></Grid>
+      <Grid md={5} className={css.proj1Right}><div>
+        <img className={css.bootcamperAppImage} src="/images/mywebsite-sml.png" />
+        </div></Grid>
   </Grid.Container>
   ) }
 
