@@ -13,9 +13,9 @@ const ProjectSection2 = ({projectTitle, projectDescription}) => {
       );
   }
   return (
-  <Grid.Container className={css.projectGrid2} gap={2} justify="center">
-    <Grid xs={6}><MockItem text="1 of 2" /></Grid>
-      <Grid xs={6}><div className={css.projectTextBox}>
+  <Grid.Container className={css.projectGrid2} gap={2} justify="center" wrap="wrap">
+    <Grid md={5} className={css.proj2Right}><MockItem text="1 of 2" /></Grid>
+      <Grid md={5}><div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>
     <Link href="https://github.com/orgs/SchoolOfCode/teams/farc-incorporated/repositories" passHref>

@@ -13,8 +13,8 @@ const ProjectSection3 = ({projectTitle, projectDescription}) => {
       );
   }
   return (
-  <Grid.Container className={css.projectGrid3} gap={2} justify="center">
-    <Grid xs={6}><div className={css.projectTextBox}>
+  <Grid.Container className={css.projectGrid3} gap={2} justify="center" wrap="wrap">
+    <Grid md={5}><div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>
     <Link href="https://github.com/SchoolOfCode/final-project-repo-node-of-ingenuity-room-17" passHref>
@@ -22,7 +22,7 @@ const ProjectSection3 = ({projectTitle, projectDescription}) => {
     </Link>
     </div>
   </Grid>
-      <Grid xs={6}><MockItem text="2 of 2" /></Grid>
+      <Grid md={5} className={css.proj3Left} ><MockItem text="2 of 2" /></Grid>
   </Grid.Container>
   ) }
 

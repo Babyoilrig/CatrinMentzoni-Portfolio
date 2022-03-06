@@ -6,7 +6,7 @@ import NavbarPage2 from "../Components/NavbarPage2";
 import SkillsSection from "../Components/SkillsSection";
 import ImagePage2 from "../Components/ImagePage2";
 import BodyTextSectionPage2 from "../Components/bodyTextSectionPage2";
-
+import DeveloperSection from "../Components/DeveloperSection";
 
 
 
@@ -24,6 +24,7 @@ export default function About() {
           {/* <AboutMeSection /> */}
           <ImagePage2 />
           <BodyTextSectionPage2 />
+          <DeveloperSection />
           
           {/* <SkillsHeader title="Skills"/> */}
           {/* <SkillsSection /> */}
