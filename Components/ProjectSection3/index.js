@@ -14,7 +14,7 @@ const ProjectSection3 = ({projectTitle, projectDescription}) => {
   }
   return (
   <Grid.Container className={css.projectGrid3} gap={2} justify="center" wrap="wrap">
-    <Grid md={5}><div className={css.projectTextBox}>
+    <Grid md={5} className={css.proj3Right}><div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>
     <Link href="https://github.com/SchoolOfCode/final-project-repo-node-of-ingenuity-room-17" passHref>

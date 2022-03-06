@@ -1,6 +1,13 @@
 .projectGrid3 {
     position: absolute;
-    top: 2200px;
+    top: 3000px;
+    border: 1px;
+    border-color: black;
+    border-style: inset;
+    margin-left: 3rem;
+    margin-right: 20rem;
+    margin-bottom: 20%;
+    border-radius: 18px;
 }
 
 .projectTextBox{
@@ -61,6 +68,14 @@
 }
 
 .proj3Left {
-    background-color: #fdc435;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.proj3Right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
 }

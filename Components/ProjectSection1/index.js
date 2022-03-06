@@ -14,7 +14,7 @@ const ProjectSection1 = ({projectTitle, projectDescription}) => {
   }
   return (
   <Grid.Container className={css.projectGrid1} gap={2} justify="center" wrap="wrap">
-    <Grid md={5}>
+    <Grid className={css.proj1Left}md={5}>
     <div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>

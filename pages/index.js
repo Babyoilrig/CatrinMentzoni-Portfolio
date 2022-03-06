@@ -36,7 +36,7 @@ School of Code's Bootcamp 10 cohort - and I love it!
             to use."
     projectButton="More info"
             />
-              <Spacer x={5}/>
+               <Spacer y={6}/>
     <ProjectSection2 projectTitle="Bootcamper App" projectDescription=
     "This is a social media app for School of Code bootcampers. 
     Since out cohort has over 180 attendees, it is difficult for
@@ -49,7 +49,7 @@ School of Code's Bootcamp 10 cohort - and I love it!
     wireframes, built React components and styled them using
     CSS. I also worked with a partner to deploy the front end.
      "/>
-       <Spacer x={5}/>
+        <Spacer y={3}/>
     <ProjectSection3 projectTitle="Tribe App" projectDescription=
     "I am currently working as part of a team of 6 to create the
 Tribe mobile app, as part of our month long final project. 
