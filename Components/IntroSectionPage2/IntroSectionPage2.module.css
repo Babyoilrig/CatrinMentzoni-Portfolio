@@ -6,9 +6,9 @@
   padding: 0px;
 
   position: absolute;
-  width: 900px;
+  width: 600px;
   height: 408px;
-  left: 102px;
+  left: 50px;
   top: 30px;
 }
 
@@ -47,7 +47,7 @@
   align-items: flex-start;
   padding: 0px;
 
-  width: 750px;
+  width: 600px;
   height: 200px;
   left: 0px;
   margin-top: 270px;
@@ -61,7 +61,7 @@
 .buttonContainer {
   display: flex;
   flex-direction: row;
-  margin-top: 10rem;
+  margin-top: 20rem;
   height: 4rem;
   
 
