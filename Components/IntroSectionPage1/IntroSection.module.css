@@ -5,9 +5,9 @@
     padding: 0px;
   
     position: absolute;
-    width: 900px;
+    width: 700px;
     height: 408px;
-    left: 102px;
+    left: 90px;
     top: 84px;
   }
   
@@ -21,7 +21,7 @@
     font-family: Nunito;
     font-style: normal;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 27px;
     text-transform: uppercase;
   
@@ -40,9 +40,9 @@
   
   .blackMainTitle {
     position: static;
-    width: 508px;
+    width: 450px;
     height: 154px;
-    left: calc(50% - 508px / 2);
+    left: 20rem;
     top: calc(50% - 154px / 2 - 107.5px);
   
     /* title/h1 */
@@ -50,7 +50,7 @@
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 77px;
+    font-size: 50px;
     line-height: 120%;
     /* or 77px */
   
@@ -126,15 +126,14 @@
     
   }
 
-  .catImageContainer {
-    top: 200px;
+  /* .catImageContainer {
     width: 50rem;
     height: 50rem;
     margin: 2rem;
-  }
+  } */
 
-  .catImage {
+  /* .catImage {
     height: 100%; 
       width: 100%; 
       object-fit: contain;
-  }
+  } */

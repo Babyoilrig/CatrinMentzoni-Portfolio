@@ -15,7 +15,7 @@ const IntroParaPage2 = ({ introPara, introButton1, introButton2}) => {
       );
   }
   return (
-  <Grid.Container justify="flex-start">
+  <Grid.Container justify="center">
     <Grid xs={6}>
     <div className={css.introPara}><p className={css.introParaText}>{introPara}</p>
         </div>

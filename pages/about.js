@@ -30,8 +30,8 @@ export default function About() {
         
         introButton1="CV"
         introButton2="Home"/>
-          <SkillsHeader title="Skills"/>
-          <SkillsSection />
+          {/* <SkillsHeader title="Skills"/> */}
+          {/* <SkillsSection /> */}
           <Footer />
 
       </div>
