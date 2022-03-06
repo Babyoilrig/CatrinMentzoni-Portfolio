@@ -17,7 +17,7 @@ const ProjectSection3 = ({projectTitle, projectDescription}) => {
     <Grid xs={6}><div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>
-    <Link href="https://github.com/orgs/SchoolOfCode/teams/farc-incorporated/repositories" passHref>
+    <Link href="https://github.com/SchoolOfCode/final-project-repo-node-of-ingenuity-room-17" passHref>
     <button className={css.projectButton}>View Project</button>
     </Link>
     </div>

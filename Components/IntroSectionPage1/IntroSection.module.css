@@ -127,7 +127,7 @@
   }
 
   .catImageContainer {
-    margin-top: 100px;
+    top: 200px;
     width: 50rem;
     height: 50rem;
     margin: 2rem;

@@ -1,8 +1,8 @@
+import { css } from "@nextui-org/react";
 import React from "react";
 import YouTube from "react-youtube";
-import css from "./video.module.css";
   
-export default class Video 
+export default class YoutubeVideo 
 extends React.Component {
   render() {
     const opts = {
@@ -14,8 +14,8 @@ extends React.Component {
     };
   
     return (
-      <div className={css.videoPlayer}>
-        <YouTube videoId="r6INKyX78PE" 
+      <div>
+        <YouTube videoId="vZt0Ni6qkP4" 
             opts={opts} onReady={this._onReady} />
       </div>
     );
