@@ -51,12 +51,10 @@
   height: 200px;
   left: 0px;
   margin-top: 270px;
-  
+  font-size: 50px;
 }
 
-.introParaText {
-  font-size: 30px;
-}
+
 
 .buttonContainer {
   display: flex;
