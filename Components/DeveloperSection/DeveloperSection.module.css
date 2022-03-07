@@ -1,11 +1,89 @@
 .developerGrid {
-margin-top: 300px;
+margin-top: 400px;
+
 }
 
 .developerRight {
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+border: 2px;
+border-color: black;
+border-radius: 18px;
+border-style: inset;
 }
 
 .developerLeft {
-    background-color: #fdc435;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+background-color: #fdc435;
+border: 2px;
+border-color: black;
+border-radius: 18px;
+border-style: inset;
 }
+
+.developerP1 {
+font-size: 20px;
+font-family: Roboto;
+
+}
+
+.developerP2 {
+font-size: 20px;
+font-family: Roboto;
+}
+
+.developerP3 {
+font-size: 20px;
+font-family: Roboto;
+}
+
+.developerP4 {
+    font-size: 20px;
+    font-family: Roboto;
+    }
+
+    .developerP5 {
+        font-size: 20px;
+        font-family: Roboto;
+        }
+
+        .developerP6 {
+            font-size: 20px;
+            font-family: Roboto;
+            }
+
+            .developerP7 {
+                font-size: 20px;
+                font-family: Roboto;
+                }
+
+                .developerP8 {
+                    font-size: 20px;
+                    font-family: Roboto;
+                    }
+
+                    .developerP9 {
+                        font-size: 20px;
+                        font-family: Roboto;
+                        }
+
+    .list {
+        font-size: 40px;
+        font-family: Roboto;
+        font-weight: 700;
+    }
+
+    .skillsHeading {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .softSkillsHeading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
