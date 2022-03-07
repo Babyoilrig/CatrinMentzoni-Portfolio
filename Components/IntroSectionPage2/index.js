@@ -39,10 +39,10 @@ in hosting music events. </p>
 
 
         <div className={css.buttonContainer}>
-          <Link href="CV" passHref>
+          <Link href="https://drive.google.com/file/d/13l5EDVpTSWMwYZp8rLr1gorKFqCm6Tba/view?usp=sharing" passHref>
             <button className={css.firstButton}>{introButton1}</button>
           </Link>
-          <Link href="Home" passHref>
+          <Link href="/" passHref>
             <button className={css.secondButton}>{introButton2}</button>
           </Link>
         </div>
