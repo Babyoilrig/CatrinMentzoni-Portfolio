@@ -1,0 +1,44 @@
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    height: 4rem;
+    
+  
+  }
+  
+  .firstButton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding: 0px 28px;
+    width: 175.5px;
+    height: 64.5px;
+    left: 0px;
+    top: 0px;
+    object-fit: contain;
+    background: #fdc435;
+    border-radius: 18px;
+    margin: 1rem;
+    font-size: 25px;
+    
+  }
+  
+  .secondButton {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding: 8px 30px;
+    width: 175.5px;
+    height: 64.5px;
+    left: 120px;
+    top: 43px;
+    border: 2px solid #25282b;
+    border-radius: 18px;
+    object-fit: contain;
+    margin: 1rem;
+    font-size: 25px;
+    
+  }

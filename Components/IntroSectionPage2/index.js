@@ -1,8 +1,8 @@
 import { Grid, Text, Card } from '@nextui-org/react';
 import css from './IntroSectionPage2.module.css';
-import Link from "next/link";
 
-const IntroSectionPage2 = ({mainTitle, introSentence, introButton1, introButton2}) => {
+
+const IntroSectionPage2 = ({mainTitle, introSentence}) => {
     const MockItem = ({text}) => {
       return (
         <Card color="primary" css={{ h: '$24' }}>
@@ -35,17 +35,6 @@ in hosting music events. </p>
 
 <p className={css.para4}>In 2010, I spent two years in Cambodia first volunteering with his Cambodians children charity 
 (Camkids.org) and then working as a teacher in the capital Phnom Penh. </p>
-
-
-
-        <div className={css.buttonContainer}>
-          <Link href="https://drive.google.com/file/d/13l5EDVpTSWMwYZp8rLr1gorKFqCm6Tba/view?usp=sharing" passHref>
-            <button className={css.firstButton}>{introButton1}</button>
-          </Link>
-          <Link href="/" passHref>
-            <button className={css.secondButton}>{introButton2}</button>
-          </Link>
-        </div>
       </div>
     </div>
     </div>
