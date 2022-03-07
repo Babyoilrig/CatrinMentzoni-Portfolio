@@ -5,15 +5,15 @@
     align-items: center;
     padding: 0px;
   
-    position: absolute;
+    /* position: absolute; */
     width: 992px;
     height: 1892px;
     left: calc(50% - 992px / 2 - 2px);
-    top: 773px;
+    margin-top: 2000px;
   }
   
   .projectsTitle {
-    position: absolute;
+    /* position: absolute; */
     width: 181px;
     height: 72px;
     left: 410px;
@@ -29,10 +29,10 @@
     color: #25282b;
     /* Inside auto layout */
   
-    flex: none;
+    /* flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 4px 0px;
+    margin: 4px 0px; */
   }
   
   .projectUnderline {

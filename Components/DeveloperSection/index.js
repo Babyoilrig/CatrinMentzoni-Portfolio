@@ -13,7 +13,7 @@ import { Grid, Text, Card } from '@nextui-org/react';
         );
     }
     return (
-        <Grid.Container gap={2} justify="center" wrap="wrap">
+        <Grid.Container className={css.developerGrid} gap={2} justify="center" wrap="wrap">
         <Grid md={4}><p>In these 16 weeks, I've gained experience with technologies including:
 Front end: JavaScript ES6, HTML5, CSS3
 Frameworks and libraries: React, Gatsby, Next

@@ -9,6 +9,8 @@ import ProjectSection2 from '../Components/ProjectSection2'
 import ProjectSection3 from '../Components/ProjectSection3'
 import ProjectHeader from '../Components/HeaderProject'
 import IntroSectionPage1 from '../Components/IntroSectionPage1'
+import VideoContainer from '../Components/VideoContainer';
+
 
 
 
@@ -28,7 +30,8 @@ School of Code's Bootcamp 10 cohort - and I love it!
         mainTitle="Fullstack Software Engineer"
         introButton1="About me"
         introButton2="Projects"/>
-    <ProjectHeader title="Projects"/>
+        <VideoContainer />
+     <ProjectHeader title="Projects"/> 
     <ProjectSection1
     projectTitle="This Website" 
     projectDescription="This portfolio site was made with Next.js. My aim was 

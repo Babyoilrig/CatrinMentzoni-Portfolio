@@ -50,7 +50,6 @@ in hosting music events. </p>
     </div>
     </div>
     </Grid>
-      
   </Grid.Container>
   ) }
 

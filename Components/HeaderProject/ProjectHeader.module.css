@@ -9,7 +9,7 @@
     width: 992px;
     height: 1892px;
     left: calc(50% - 992px / 2 - 2px);
-    top: 1150px;
+    margin-top: 150px;
   }
   
   .projectsTitle {

@@ -1,6 +1,6 @@
 .projectGrid1 {
     position: absolute;
-    top: 1400px;
+    top: 1900px;
     border: 1px;
     border-color: black;
     border-style: inset;
@@ -8,6 +8,7 @@
     margin-right: 20rem;
     margin-bottom: 20%;
     border-radius: 18px;
+    padding: 100px;
 }
 
 .projectTextBox{

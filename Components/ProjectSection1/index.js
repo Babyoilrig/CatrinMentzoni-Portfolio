@@ -14,7 +14,7 @@ const ProjectSection1 = ({projectTitle, projectDescription}) => {
   }
   return (
   <Grid.Container className={css.projectGrid1} gap={2} justify="center" wrap="wrap">
-    <Grid className={css.proj1Left}md={5}>
+    <Grid md={5} className={css.proj1Left}>
     <div className={css.projectTextBox}>
     <h2 className={css.projectTitle}>{projectTitle}</h2>
     <h3 className={css.projectDescription}>{projectDescription}</h3>
@@ -23,9 +23,10 @@ const ProjectSection1 = ({projectTitle, projectDescription}) => {
     </Link>
     </div>
   </Grid>
-      <Grid md={5} className={css.proj1Right}><div>
+      <Grid md={5} className={css.proj1Right}>
+      
         <img className={css.bootcamperAppImage} src="/images/mywebsite-sml.png" />
-        </div></Grid>
+        </Grid>
   </Grid.Container>
   ) }
 
