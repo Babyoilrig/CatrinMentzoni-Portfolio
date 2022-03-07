@@ -22,7 +22,7 @@ const ProjectSection3 = ({projectTitle, projectDescription}) => {
     </Link>
     </div>
   </Grid>
-      <Grid md={5} className={css.proj3Left} ><div>
+      <Grid md={5} className={css.proj3Left} ><div className={css.projectImageBox}>
         <img className={css.bootcamperAppImage} src="/images/tribeApp-sml.png" />
         </div></Grid>
   </Grid.Container>

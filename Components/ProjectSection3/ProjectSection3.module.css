@@ -8,12 +8,18 @@
     margin-right: 20rem;
     margin-bottom: 20%; */
     border-radius: 18px;
+    
 }
 
 .projectTextBox{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 200px;
+}
+
+.projectImageBox {
+    margin-bottom: 200px;
 }
 .projectTitle {
     display: flex;

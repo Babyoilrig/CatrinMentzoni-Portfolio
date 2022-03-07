@@ -7,6 +7,7 @@ import SkillsSection from "../Components/SkillsSection";
 import ImagePage2 from "../Components/ImagePage2";
 import BodyTextSectionPage2 from "../Components/bodyTextSectionPage2";
 import DeveloperSection from "../Components/DeveloperSection";
+import HobbiesSection from "../Components/Hobbies";
 
 
 
@@ -21,13 +22,10 @@ export default function About() {
           
         introButton1="CV"
         introButton2="Home"/>
-          {/* <AboutMeSection /> */}
           <ImagePage2 />
           <BodyTextSectionPage2 />
           <DeveloperSection />
-          
-          {/* <SkillsHeader title="Skills"/> */}
-          {/* <SkillsSection /> */}
+          <HobbiesSection />
           <Footer />
 
       </div>

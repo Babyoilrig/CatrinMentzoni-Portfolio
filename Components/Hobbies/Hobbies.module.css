@@ -1,0 +1,25 @@
+.hobbiessHeading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+
+    .hobbiesList {
+        font-size: 60px;
+        font-family: Roboto;
+        font-weight: 900;
+    }
+
+    .hobbiesSection {
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+border: 2px;
+border-color: black;
+border-radius: 18px;
+border-style: inset;
+padding-right: 590px;
+padding-left: 590px;;
+margin-bottom: 100px;
+    }
