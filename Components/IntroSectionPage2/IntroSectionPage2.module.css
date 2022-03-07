@@ -111,7 +111,8 @@
 .buttonContainer {
   display: flex;
   flex-direction: row;
-  margin-top: 550px;
+  margin-top: 650px;
+  margin-left: 750px;
   height: 4rem;
   
 
