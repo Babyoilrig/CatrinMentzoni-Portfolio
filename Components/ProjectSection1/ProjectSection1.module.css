@@ -1,6 +1,6 @@
 .projectGrid1 {
     position: absolute;
-    top: 1900px;
+    margin-top: 320px;
     border: 1px;
     border-color: black;
     border-style: inset;
@@ -15,7 +15,16 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 100px;
 }
+
+.projectTextBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
 .projectTitle {
     display: flex;
     flex-direction: column;

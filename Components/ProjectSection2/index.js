@@ -14,7 +14,7 @@ const ProjectSection2 = ({projectTitle, projectDescription}) => {
   }
   return (
   <Grid.Container className={css.projectGrid2} gap={2} justify="center" wrap="wrap">
-    <Grid md={5} className={css.proj2Right}><div>
+    <Grid md={5} className={css.proj2Right}><div className={css.projectImageBox}>
         <img className={css.bootcamperAppImage} src="/images/bootcamper-app.png" />
         </div></Grid>
       <Grid md={5} className={css.proj2Left}><div className={css.projectTextBox}>
