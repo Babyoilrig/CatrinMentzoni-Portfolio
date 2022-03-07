@@ -1,12 +1,12 @@
 .projectGrid2 {
     position: absolute;
-    top: 2700px;
+    top: 2900px;
     border: 1px;
     border-color: black;
     border-style: inset;
-    margin-left: 3rem;
+    /* margin-left: 3rem;
     margin-right: 20rem;
-    margin-bottom: 20%;
+    margin-bottom: 20%; */
     border-radius: 18px;
 }
 
