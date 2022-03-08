@@ -14,8 +14,8 @@ const ProjectHeader = ({title}) => {
 return (
 <Grid.Container gap={2} className={css.projectsContainer} justify="center">
   <Grid xs={6}>
-  <div id="projects-section">
-        <h2 className={css.projectsTitle}>{title}</h2>
+  <div >
+        <h2 id="projects-section" className={css.projectsTitle}>{title}</h2>
         <div className={css.projectUnderline}>
        </div>
        </div>
