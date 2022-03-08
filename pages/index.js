@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import { Spacer } from '@nextui-org/react';
 import Footer from '../Components/Footer'
 import NavbarPage1 from '../Components/NavbarPage1'
 import ProjectSection1 from '../Components/ProjectSection1'
@@ -39,7 +38,6 @@ School of Code's Bootcamp 10 cohort - and I love it!
             to use."
     projectButton="More info"
             />
-               <Spacer y={6}/>
     <ProjectSection2 projectTitle="Bootcamper App" projectDescription=
     "This is a social media app for School of Code bootcampers. 
     Since out cohort has over 180 attendees, it is difficult for
@@ -52,7 +50,6 @@ School of Code's Bootcamp 10 cohort - and I love it!
     wireframes, built React components and styled them using
     CSS. I also worked with a partner to deploy the front end.
      "/>
-        <Spacer y={3}/>
     <ProjectSection3 projectTitle="Tribe App" projectDescription=
     "I am currently working as part of a team of 6 to create the
 Tribe mobile app, as part of our month long final project. 

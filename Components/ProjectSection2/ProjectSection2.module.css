@@ -1,13 +1,10 @@
-.projectGrid2 {
-    position: absolute;
-    margin-top: 1000px;
-    border: 1px;
+
+.projectGrid2{
+    border: 2px;
     border-color: black;
-    border-style: inset;
-    /* margin-left: 3rem;
-    margin-right: 20rem;
-    margin-bottom: 20%; */
     border-radius: 18px;
+    border-style: inset;
+    margin-bottom: 100px;
 }
 
 .projectTextBox{
@@ -16,14 +13,6 @@
     justify-content: center;
     margin-bottom: 100px;
 }
-
-.projectTextBox {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    margin-bottom: 100px;
-}
-
 
 .projectTitle {
     display: flex;

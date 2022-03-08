@@ -1,14 +1,10 @@
-.projectGrid3 {
-    position: absolute;
-    margin-top: 1500px;
+
+.projectGrid3{
     border: 2px;
     border-color: black;
-    border-style: inset;
-    /* margin-left: 3rem;
-    margin-right: 20rem;
-    margin-bottom: 20%; */
     border-radius: 18px;
-    
+    border-style: inset;
+    margin-bottom: 100px;  
 }
 
 .projectTextBox{
