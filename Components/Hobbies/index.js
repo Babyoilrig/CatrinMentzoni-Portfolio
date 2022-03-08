@@ -18,15 +18,15 @@ import { Grid, Text, Card } from '@nextui-org/react';
       <div className={css.hobbiesSection}>   
       <h1 className={css.hobbiesHeading}>Hobbies</h1>
         <ul className={css.hobbiesList}>
-       <li>Coding!</li> 
-       <li>Music</li>
-       <li>Travel</li>
-       <li>Walking</li>
-       <li>Swimming</li>
-       <li>Paddleboarding</li>
-       <li>Surfing</li>
-       <li>Cooking</li>
-       <li>Campervanning</li>
+       <li className={css.hobbiesItem}>Coding!</li> 
+       <li className={css.hobbiesItem}>Music</li>
+       <li className={css.hobbiesItem}>Travel</li>
+       <li className={css.hobbiesItem}>Walking</li>
+       <li className={css.hobbiesItem}>Swimming</li>
+       <li className={css.hobbiesItem}>Paddleboarding</li>
+       <li className={css.hobbiesItem}>Surfing</li>
+       <li className={css.hobbiesItem}>Cooking</li>
+       <li className={css.hobbiesItem}>Campervanning</li>
         </ul>
         </div>  
       </Grid>

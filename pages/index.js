@@ -33,22 +33,23 @@ School of Code's Bootcamp 10 cohort - and I love it!
      <ProjectHeader title="Projects"/> 
     <ProjectSection1
     projectTitle="This Website" 
-    projectDescription="This portfolio site was made with Next.js. My aim was 
-            to create a stylish and feminine personal site, which was simple and easy 
-            to use."
+    projectDescription="This portfolio site was made with Next.js and Next UI containers. My aim was 
+            to create a stylish and feminine personal site, which is easy 
+            to use and responsive on mobile devices. It was a steep learning curve - in which I spent hours upon hours learning 
+            about mobile-responsive containers and wrapping divs, but I am proud of the result :)"
     projectButton="More info"
             />
     <ProjectSection2 projectTitle="Bootcamper App" projectDescription=
     "This is a social media app for School of Code bootcampers. 
-    Since out cohort has over 180 attendees, it is difficult for
-     bootcampers to get to know their peers, and this app assists 
-     with that problem.
-    During our week 9 project, I worked as part of a team of 4,
-    we created a social media app for bootcampers using a
-    React front end, and a Postgres database. I enjoyed working
-    with my team on this project. I created the high-fidelity
+    Since our cohort consisted of over 180 students, it was difficult for
+     bootcampers to get to know their peers. 
+     I built this app during our week 9 project, working as part of a team of four.
+
+    The app was created using a React front end, and a Postgres database. 
+    
+    I enjoyed working with my team on this project. I created the high-fidelity
     wireframes, built React components and styled them using
-    CSS. I also worked with a partner to deploy the front end.
+    CSS. I also worked with a partner to deploy the front end, amongst many other things.
      "/>
     <ProjectSection3 projectTitle="Tribe App" projectDescription=
     "I am currently working as part of a team of 6 to create the
@@ -58,7 +59,8 @@ chores to their children and other family members.
 We are building the project using React Native and Firebase.
 So far, as well as learning a new flavour of React, I have
 researched and implemented a testing environment and
-written tests. I have also created a stacknavigator.
+written tests, created a stacknavigator component and researched how to 
+deploy and host apps via the Expo app store, amongst many other things.
 "/>
     <Footer />
 

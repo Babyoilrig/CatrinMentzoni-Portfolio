@@ -26,7 +26,7 @@ const IntroSectionPage2 = ({mainTitle, introSentence}) => {
         Hi, my name is Cat and I grew up near Pwllheli in North West Wales. </p>
 
 <p className={css.para2}>During early teens in the mid-1990s I got my first home computer, and spent hours learning 
-about different programs and spending time on the Internet. I even completed an AS Level in Computer 
+about different programs and spending time on the internet. I even completed an AS Level in Computer 
 Programming in 2000, in which I learned to code in the ‘Delphi’ language. </p>
 
 <p className={css.para3}>Even though I enjoyed working with computers, I ended up studying business studies at university, 

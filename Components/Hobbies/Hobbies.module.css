@@ -6,7 +6,7 @@
     }
 
     .hobbiesList {
-        font-size: 60px;
+        font-size: 200px;
         font-family: Roboto;
         font-weight: 900;
     }
@@ -22,4 +22,8 @@ border-style: inset;
 padding-right: 590px;
 padding-left: 590px;;
 margin-bottom: 100px;
+    }
+
+    .hobbiesItem {
+        font-size: 24px;
     }
