@@ -16,7 +16,7 @@ extends React.Component {
     return (
       <div>
       <h1>Introduction</h1>
-        <YouTube videoId="vZt0Ni6qkP4" 
+        <YouTube videoId="GNbKZls3W4w" 
             opts={opts} onReady={this._onReady} />
       </div>
     );
