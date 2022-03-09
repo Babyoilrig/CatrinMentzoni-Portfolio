@@ -31,9 +31,9 @@ import { Grid, Text, Card } from '@nextui-org/react';
         <Grid md={4} className={css.developerLeft}><h1 className={css.skillsHeading}>Skills</h1>
         <ul className={css.list}>
 <li>Front end: JavaScript ES6, HTML5, CSS3 </li>
-<li>Frameworks and libraries: React, Gatsby, Next </li>
-<li>Back end: Node, Express, PostgreSQL, WebSocket </li>
-<li>Services: Netlify, Heroku, Serverless, AWS, Docker </li>
+<li>Frameworks and libraries: React, React Native, Next.js </li>
+<li>Back end: Node, Express, PostgreSQL, Firebase </li>
+<li>Services: Netlify, Heroku </li>
 <li>Tools: Git, Docker </li>
 <li>Testing and test-driven development </li>
 <br></br>
