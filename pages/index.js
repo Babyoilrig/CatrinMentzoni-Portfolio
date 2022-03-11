@@ -19,7 +19,7 @@ export default function Home() {
     <NavbarPage1 /> 
 
     {/* <Navbar /> */}
-    <CatImagePage1 />
+    
 
     <IntroSectionPage1 
     introSentence={"Hello, my name is Catrin Mentzoni"}
