@@ -19,10 +19,8 @@ export default function About() {
     return (
       <div>
       <NavbarPage2 />
-<<<<<<< Updated upstream
-=======
       {/* <Navbar2 /> */}
->>>>>>> Stashed changes
+
           <IntroSectionPage2 introSentence={"About me"} />
           <ImagePage2 />
           <BodyTextSectionPage2 />

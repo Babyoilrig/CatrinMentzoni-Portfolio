@@ -17,11 +17,10 @@ export default function Home() {
   return (
     <div>
     <NavbarPage1 /> 
-<<<<<<< Updated upstream
-=======
+
     {/* <Navbar /> */}
     <CatImagePage1 />
->>>>>>> Stashed changes
+
     <IntroSectionPage1 
     introSentence={"Hello, my name is Catrin Mentzoni"}
         introPara="I am an enthusiastic and friendly individual with excellent
