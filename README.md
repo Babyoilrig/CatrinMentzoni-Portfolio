@@ -12,7 +12,7 @@ It contains information on my individual background, journey, skills and CV etc.
 
 I created this project using Next.JS. I chose this package, as I had not used it before – in order to learn more about it (and also because I enjoy a new challenge).
 
-This project currently displays correctly on the chrome web browser, and on safari mobile browser.
+This project currently displays correctly on the Chrome web browser, and on Safari mobile browser.
 
 Unfortunately, this project does not yet display correctly on Firefox and Chrome mobile browsers.
 
