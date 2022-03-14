@@ -44,9 +44,9 @@ Next, run the command Npm Run Dev - to open the app in your browser.
  
 **Features**
 -----------------
-* View a introduction video
+* View an introduction video
 <br/><br/>
-* View projects I have done
+* View projects
 <br/><br/>
 * Information on my background and journey
 <br/><br/>
