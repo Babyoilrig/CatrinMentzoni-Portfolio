@@ -16,7 +16,7 @@ This project currently displays correctly on the Chrome web browser, and on Safa
 
 Unfortunately, this project does not yet display correctly on Firefox and Chrome mobile browsers.
 
-As a result I will be editing this project soon using tailwind.
+As a result I will be editing this project soon using Tailwind.
 
 
 **Author**
