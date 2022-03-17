@@ -26,7 +26,6 @@ Unfortunately, this project does not yet display correctly on Firefox and Chrome
  
 **Installation**
 -----------------
-The hosted version of this project can be viewed at: www.catrinmentzoni.com
 
 **To run this app:**
 <br/><br/>
