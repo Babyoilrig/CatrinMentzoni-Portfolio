@@ -1,6 +1,7 @@
 Catrin Mentzoni Portfolio
 ===========
 I have rebuilt this project using Tailwind CSS for mobile compatibility. Please see new repo [HERE](https://github.com/Babyoilrig/Catrin--Mentzoni-Portfolio)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 -----------------------------------------
